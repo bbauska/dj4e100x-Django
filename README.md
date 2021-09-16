@@ -2,12 +2,12 @@
 
 From MichiganX classes, notes, and slides. Django in JavaScript.
 
-### ##I. Introduction to Dynamic Web Content
+##    I. Introduction to Dynamic Web Content
 
-##II. Install Django on PythonAnywhere
+##   II. Install Django on PythonAnywhere
 
-##III. Hypertext Markup Language
+## III. Hypertext Markup Language
 
-##IV. Cascade Style Sheets
+##  IV. Cascade Style Sheets
 
-##V. Introducing Structured Query Language (SQL)
+##   V. Introducing Structured Query Language (SQL)
