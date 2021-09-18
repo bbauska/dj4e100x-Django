@@ -1,8 +1,10 @@
-# dj4e100x-Django
+# dj4e101x-Web Application Technologies in Django (Part 1 of 4)
 
 From MichiganX classes, notes, and slides. Django in JavaScript.
 
 ##    I. Introduction to Dynamic Web Content
+
+#### Why Django?
 
 ##   II. Install Django on PythonAnywhere
 
